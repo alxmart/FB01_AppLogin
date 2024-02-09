@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FB01_AppLogin</string>
+    <string name="edtUsuarioText">Entre com usuário.</string>
+    <string name="edtSenhaText">Entre com sua senha.</string>
+    <string name="btnEntrarText">Entrar</string>
+    <string name="btnSairText">Sair</string>
+    <string name="imgLogoContentDescription">draw of a person</string>
 </resources>
